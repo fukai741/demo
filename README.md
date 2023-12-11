@@ -1,6 +1,2 @@
 # demo
-
-
-
-
-hh
+assignment 3
